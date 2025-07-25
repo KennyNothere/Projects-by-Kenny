@@ -1,0 +1,29 @@
+body{
+    padding: 10px;
+    font-family: Arial;
+}
+.header-box{
+    display: flex;
+    justify-content: space-between;
+}
+.header-right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 18px;
+}
+.pfp{
+    height: 30px;
+    width: 30px;
+    border-radius: 15px;
+}
+.lab-div, .dots-div{
+    height: 20px;
+    width: 20px;
+
+}
+.lab, .dots{
+    height:  100%;
+    width: 100%;
+    object-fit: cover;
+}
