@@ -12,3 +12,9 @@
 -Added flex-box into line 13 and 15
 -Adjust Some size and px to img 
 -Gave Body font-family and paddding
+    -new font "Roboto"
+-Added hover and underline effect 
+-Reused The google search bar from the test repo and modified 
+-New tags
+    -"caret-color" is a little line when you click on other tags and "transparent" can make it disapper
+    -"focus" is an element that target stuff inside of the input

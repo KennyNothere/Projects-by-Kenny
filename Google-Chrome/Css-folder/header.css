@@ -1,6 +1,7 @@
 body{
     padding: 10px;
-    font-family: Arial;
+    font-family: "roboto", arial;
+    caret-color: transparent;
 }
 .header-box{
     display: flex;
@@ -10,20 +11,34 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 18px;
+    gap: 14px;
 }
 .pfp{
-    height: 30px;
-    width: 30px;
-    border-radius: 15px;
+    height: 34px;
+    width: 34px;
+    border-radius: 17px;
+    cursor: pointer;
 }
 .lab-div, .dots-div{
     height: 20px;
     width: 20px;
-
+    padding: 6px;
+    border-radius: 18px;
+    transition: background-color 0.15s ;
+    cursor: pointer;
+}
+.lab-div:hover ,.dots-div:hover{
+    background-color: rgba(228, 225, 225, 0.459);
 }
 .lab, .dots{
     height:  100%;
     width: 100%;
     object-fit: cover;
+}
+.header-div{
+    font-size: 14px;
+}
+.header-div:hover{
+   text-decoration: underline;
+   cursor: pointer;
 }
