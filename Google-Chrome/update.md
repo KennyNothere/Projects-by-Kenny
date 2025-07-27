@@ -19,3 +19,8 @@
     -"caret-color" is a little line when you click on other tags and "transparent" can make it disapper
     -"focus" is an element that target stuff inside of the input
 
+7/27/2025
+
+-ALWAYS REMEMBER to put width and height in a div or other tags if need it
+    -i have been searching for what went wrong for 3h and turn out i forgot to put the... you get the idea right?
+-Added Search img on the Search bar
