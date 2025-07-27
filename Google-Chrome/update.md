@@ -18,3 +18,4 @@
 -New tags
     -"caret-color" is a little line when you click on other tags and "transparent" can make it disapper
     -"focus" is an element that target stuff inside of the input
+
