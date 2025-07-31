@@ -24,3 +24,8 @@
 -ALWAYS REMEMBER to put width and height in a div or other tags if need it
     -i have been searching for what went wrong for 3h and turn out i forgot to put the... you get the idea right?
 -Added Search img on the Search bar
+
+8/1/2025
+
+-Added "voice search" and "image search"
+
