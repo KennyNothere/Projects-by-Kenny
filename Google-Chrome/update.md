@@ -29,3 +29,7 @@
 
 -Added "voice search" and "image search"
 
+8/3/2025
+
+-Created a section where you can make shortcuts(8)
+
