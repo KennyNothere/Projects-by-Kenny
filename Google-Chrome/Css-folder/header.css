@@ -27,7 +27,7 @@ body{
     cursor: pointer;
 }
 .lab-div:hover ,.dots-div:hover{
-    background-color: rgba(68, 68, 68, 0.1);
+    background-color: #f3f4f6;
 }
 .lab, .dots{
     height: 19px;

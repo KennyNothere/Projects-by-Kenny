@@ -31,5 +31,13 @@
 
 8/3/2025
 
--Created a section where you can make shortcuts(8)
+-Created a section where you can make shortcuts(8 div)
+
+9/3/2025
+
+-By using "position: absolute" we were able to creat settings in the top of the right-coner (but they don't work tho)
+-By using "flex-direction" we don't need to manually center the items in the middle
+-Changed the camera icon 
+-Set the right background-color in the shortcuts
+-More hover effects 
 
