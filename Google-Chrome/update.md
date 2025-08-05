@@ -46,4 +46,6 @@
 -Added all the link to thier website
 -Added footer 
     -added "Customize this page"
--
+-Added 3 tooltip boxes 
+
+//And that is about it for this project. I might come back for the future purpose but for now, let's move on to the next project. You got it!//
