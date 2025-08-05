@@ -33,7 +33,7 @@
 
 -Created a section where you can make shortcuts(8 div)
 
-9/3/2025
+9/4/2025
 
 -By using "position: absolute" we were able to creat settings in the top of the right-coner (but they don't work tho)
 -By using "flex-direction" we don't need to manually center the items in the middle
@@ -41,3 +41,11 @@
 -Set the right background-color in the shortcuts
 -More hover effects 
 
+9/5/2025
+
+-Added all the link to thier website
+-Added footer 
+    -added "Customize this page"
+-Added 3 tooltip boxes 
+
+//And that is about it for this project. I might come back for the future purpose but for now, let's move on to the next project. You got it!//
