@@ -5,6 +5,7 @@ body{
 .header-box{
     display: flex;
     justify-content: space-between;
+    margin-bottom: 110px;
 }
 .header-right{
     display: flex;
