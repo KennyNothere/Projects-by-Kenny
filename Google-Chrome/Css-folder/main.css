@@ -8,7 +8,7 @@ a:visited{
 .search-box{
     padding: 10px 4px;
     height: 20px;
-    width: 500px;
+    width: 400px;
 	border: none;
     border-radius: 20px;
 }
@@ -42,7 +42,6 @@ a:visited{
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2 );
     display: flex;
     border-radius: 20px;
-    max-width: 550px;
 }
 .right-bar{
     padding: 10px 8px;
