@@ -1,5 +1,5 @@
-# Projects-by-Kenny
-This repository contain Projects made by Kenny aka Khant Min. 
+# Projects-by-Kenny #1
+Made by Kenny aka Khant Min. 
 
 7/24/2025 [10:15 PM] 
 
